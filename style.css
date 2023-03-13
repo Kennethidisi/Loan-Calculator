@@ -195,13 +195,13 @@ form{
     
 
     .empty-1{
-        width: 180px;
-        height: 180px;
+        width: 140px;
+        height: 125px;
         border-radius: 50%;
         background-color: orange;
         position: absolute;
-        top: -90px;
-        right: -90px;
+        top: -70px;
+        right: -70px;
     }
     
     .empty-2{
@@ -210,8 +210,8 @@ form{
         border-radius: 50%;
         background-color: orange;
         position: absolute;
-        bottom: -90px;
-        left: -40px;
+        bottom: -120px;
+        left: -60px;
     }
     
 }
